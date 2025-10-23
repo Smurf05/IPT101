@@ -1,0 +1,12 @@
+D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.dacpac
+D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.dll
+D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.pdb
+D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.sqlproj.AssemblyReference.cache
+D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.dll
+D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.pdb
+C:\Users\LENOVO\Desktop\IPT101\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.dacpac
+C:\Users\LENOVO\Desktop\IPT101\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.dll
+C:\Users\LENOVO\Desktop\IPT101\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.pdb
+C:\Users\LENOVO\Desktop\IPT101\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.sqlproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\IPT101\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.dll
+C:\Users\LENOVO\Desktop\IPT101\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.pdb
