@@ -1,6 +1,0 @@
-D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.dacpac
-D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.dll
-D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\bin\Debug\Bisin_Database.pdb
-D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.sqlproj.AssemblyReference.cache
-D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.dll
-D:\Bisin_IPT101\Bisin_Solution\Bisin_Database\obj\Debug\Bisin_Database.pdb
